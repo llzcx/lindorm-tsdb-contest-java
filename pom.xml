@@ -31,47 +31,47 @@
             <groupId>com.github.luben</groupId>
             <artifactId>zstd-jni</artifactId>
             <version>1.4.4-9</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/zstd-jni-1.4.4-9.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/zstd-jni-1.4.4-9.jar</systemPath>-->
         </dependency>
         <!--junit-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/junit-4.13.2.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/junit-4.13.2.jar</systemPath>-->
         </dependency>
         <!--工具包-->
         <dependency>
             <groupId>org.hamcrest</groupId>
             <artifactId>hamcrest-core</artifactId>
             <version>1.3</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/hamcrest-core-1.3.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/hamcrest-core-1.3.jar</systemPath>-->
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>19.0</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/guava-19.0.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/guava-19.0.jar</systemPath>-->
         </dependency>
         <!--log4j-->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/log4j-1.2.17.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/log4j-1.2.17.jar</systemPath>-->
         </dependency>
         <!--direct IO-->
         <dependency>
             <groupId>net.java.dev.jna</groupId>
             <artifactId>jna</artifactId>
             <version>4.0.0</version>
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/thirdlibs/jna-5.2.0.jar</systemPath>-->
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/thirdlibs/jna-5.2.0.jar</systemPath>-->
         </dependency>
 
     </dependencies>
@@ -106,7 +106,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-<!--                            <mainClass>com.alibaba.lindorm.contest.test.TestMyDb</mainClass>-->
+                            <!--                            <mainClass>com.alibaba.lindorm.contest.test.TestMyDb</mainClass>-->
                             <mainClass>com.alibaba.lindorm.contest.extendstructs.directio.DirectIOTestMain</mainClass>
                         </manifest>
                         <manifestEntries>

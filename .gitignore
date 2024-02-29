@@ -31,7 +31,6 @@ log
 *.bat
 .run
 DockerTestController.java
-/thirdlibs
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
