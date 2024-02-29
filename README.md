@@ -59,10 +59,17 @@
 
 16/3467
 
+# 快速开始
+
+运行时需要指定JVM参数
+
+com.alibaba.lindorm.contest.test.TestMyDb
+
 
 # 本工程的实现
 存储结构
-![image](https://github.com/llzcx/lindorm-tsdb-contest-java/assets/111289933/3bf60324-1e21-41a5-b4b3-da05219a0fb7)
+![image](https://github.com/llzcx/lindorm-tsdb-contest-java/assets/111289933/50455e24-990d-4541-a3d7-6a47a1475949)
+
 
 
 
